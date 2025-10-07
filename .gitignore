@@ -1,3 +1,5 @@
-# Your virtual env
-lab02
-.dvcignore
+﻿logs/
+working_data/
+__pycache__/
+*.pyc
+.env
